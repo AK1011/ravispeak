@@ -15,8 +15,8 @@ How to use:
     <br> > cd [PATH TO RAVISPEAK]
     <br> > sudo cp chat.rb /Library/Ruby/Gems/1.8/gems/skype-0.2.7/lib/skype/wrappers/chat.rb
 
-      <br> [PATH TO RAVISPEAK] is your path to wherever you installed this directory
-      <br> skype-0.2.7 is the version of Skype I am on, and that you are probably on. If not, replace it with your version.
+      <br> * [PATH TO RAVISPEAK] is your path to wherever you installed this directory
+      <br> * skype-0.2.7 is the version of Skype I am on, and that you are probably on. If not, replace it with your version.
 
   4. Open your users.rv file and put your Skype username in to replace mine (If you don't replace mine, it doesn't mean you can edit my messages. You still aren't logged in as me)
 

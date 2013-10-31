@@ -11,9 +11,9 @@ How to use:
   2. Navigate to your directory for RaviSpeak
 
   3. Install Ruby Skype and edit the wrapper with the chat.rb file following these commands:
-    [terminal] > gem install skype
-    [terminal] > cd [PATH TO RAVISPEAK]
-    [terminal] > sudo cp chat.rb /Library/Ruby/Gems/1.8/gems/skype-0.2.7/lib/skype/wrappers/chat.rb
+    <br> > gem install skype
+    <br> > cd [PATH TO RAVISPEAK]
+    <br> > sudo cp chat.rb /Library/Ruby/Gems/1.8/gems/skype-0.2.7/lib/skype/wrappers/chat.rb
 
       [PATH TO RAVISPEAK] is your path to wherever you installed this directory
       skype-0.2.7 is the version of Skype I am on, and that you are probably on. If not, replace it with your version.
